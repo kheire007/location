@@ -1,0 +1,2 @@
+# Fivem-location
+location/rent
