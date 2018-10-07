@@ -1,5 +1,5 @@
 # Fivem-location
-location/rent
+location
 rent a bike and motos
 easy install 
 put this in your ressource start it
