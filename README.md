@@ -9,7 +9,7 @@ working on esx_es
 
 Getting Started
 
-    Add location folder in resources "not in the folder esx"
+    Add location folder in resources "not in the esx folder "
     Add in server.cfg
 
 Configuration
