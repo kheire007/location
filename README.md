@@ -7,8 +7,6 @@ enjoy to use.
 DO NOT UPLOAD without permission
 working on esx_es
 
-vehicle location
-
 Getting Started
 
     Add location folder into resources
