@@ -5,7 +5,7 @@ easy install
 put this in your ressource start it
 enjoy to use.
 DO NOT UPLOAD without permission
-esx_es Location
+working on esx_es
 
 vehicle location
 
