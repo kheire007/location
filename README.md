@@ -2,4 +2,5 @@
 location/rent
 rent a bike and motors
 easy install 
-put this in your ressource start it and enjoy to use.
+put this in your ressource start it
+enjoy to use.
